@@ -1,2 +1,2 @@
 # Matcher
- Compares Strings to find the most similar ones.
+ Compares Strings to find those with the highest similarity
